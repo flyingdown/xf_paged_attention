@@ -1,0 +1,2 @@
+/root/flash-attention/paged_attention/xf_paged_attention/build/pa_install/lib/libpaged-attention.so
+/root/flash-attention/paged_attention/xf_paged_attention/build/pa_install/include/paged_attn.h
